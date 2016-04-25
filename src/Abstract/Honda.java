@@ -8,7 +8,7 @@ public class Honda extends Bike {
      }
     
      public static void main(String[] args) {
-        Bike bk = new Honda();
+        Honda bk = new Honda();
         bk.run();
     
   }
