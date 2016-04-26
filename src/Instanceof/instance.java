@@ -11,4 +11,11 @@ public class instance {
 
         /*System.out.println(ins instanceof instance);
     }*/
+    
+    void ParentAccess(){
+        System.out.println("Child can access parent method with downcasting");
+        
+        
+    }
+    
 }
